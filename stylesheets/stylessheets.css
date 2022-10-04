@@ -8,3 +8,24 @@
 #second_h2{
     background-color: pink;
 }
+#box_model{
+    margin: 5em;
+    border-width: 10px;
+    border-style: ridge ;
+    border-color: lightgreen;
+}
+#span_box_model{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 2px;
+    border-bottom: 4px;
+    border-bottom-color: gray;
+
+}
+h1{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+body{
+    font-family: 'Crimson Text',serif;
+}
